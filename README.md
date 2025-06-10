@@ -2,7 +2,7 @@
 
 Les visualitzacions que es mostren a continuació tenen com a objectiu entendre quina és la despesa en els viatges dels alts càrrecs i personal directiu de la Generalitat de Catalunya segons diferents punts de vista. 
 
-S'ha utilitzat el [conjunt de dades](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Viatges-a-l-estranger-dels-alts-c-rrecs-i-personal/5kte-hque/about_data) publicat al portal de dades obertes de la Generalitat de Catalunya, descarregat el 6 de juny.
+S'ha utilitzat el [conjunt de dades](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Viatges-a-l-estranger-dels-alts-c-rrecs-i-personal/5kte-hque/about_data) publicat al portal de dades obertes de la Generalitat de Catalunya, descarregat el 6 de juny. Atès que les dades provenen d'una font oficial, es considera validada la informació sobre les dates d'inici i finalització dels viatges. Tot i això, s'han detectat algunes incoherències en els noms de departaments i persones, que s'han corregit per poder obtenir resultats agregats més fiables.
 
 Per tal de garantir la comparabilitat dels resultats, s'ha optat per utilitzar la despesa mitjana diària en lloc de la despesa total dels viatges. Atès que es disposa de la informació sobre les dates d'inici i finalització de cada viatge, s'ha procedit a sumar totes les despeses segons la variable d'interès i posteriorment s'ha estandarditzat aquesta suma dividint-la pel nombre total de dies de durada del viatge.
 
