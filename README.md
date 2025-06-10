@@ -4,7 +4,7 @@ Les visualitzacions que es mostren a continuació tenen com a objectiu entendre 
 
 S'ha uttilitzat el [conjunt de dades](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Viatges-a-l-estranger-dels-alts-c-rrecs-i-personal/5kte-hque/about_data) publicat al portal de dades obertes de la Generalitat de Catalunya, descarregat el 6 de juny.
 
-Per tal de garantir la comparabilitat dels resultats, s'ha optat per utilitzar la despesa diària en lloc de la despesa total dels viatges. Atès que es disposa de la informació sobre les dates d'inici i finalització de cada viatge, s'ha procedit a sumar totes les despeses segons la variable d'interès i posteriorment s'ha estandarditzat aquesta suma dividint-la pel nombre total de dies de durada del viatge.
+Per tal de garantir la comparabilitat dels resultats, s'ha optat per utilitzar la despesa mitjana diària en lloc de la despesa total dels viatges. Atès que es disposa de la informació sobre les dates d'inici i finalització de cada viatge, s'ha procedit a sumar totes les despeses segons la variable d'interès i posteriorment s'ha estandarditzat aquesta suma dividint-la pel nombre total de dies de durada del viatge.
 
 ## Visió general
 
